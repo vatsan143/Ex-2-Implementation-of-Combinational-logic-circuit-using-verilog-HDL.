@@ -1,4 +1,4 @@
-# Experiment--02-Implementation-of-combinational-logic
+# Ex - 2 Implementation of Combinational logic circuit using verilog HDL
 Implementation of combinational logic gates
  
 ## AIM:
@@ -21,12 +21,8 @@ F2=xy’z+x’y’z+w’xy+wx’y+wxy
 ## Program:
 /*
 Program to implement the given logic function and to verify its operations in quartus using Verilog programming.
-Developed by: v.sanjay
-RegisterNumber:  23012749
-
-Program to implement the given logic function and to verify its operations in quartus using Verilog programming.
-Developed by: SANJAY M
-RegisterNumber:23013084
+Developed by: Baudhigan D
+RegisterNumber:23012654
 
 module ex_02(a,b,c,d,f1);
 input a,b,c,d;
